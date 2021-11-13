@@ -1,1 +1,4 @@
-🔭 I’m currently working on SMKN 2 Tegal` 🌱 I’m currently learning … 👯 I’m looking to collaborate on … 🤔 I’m looking for help with … 💬 Ask me about … 📫 How to reach me: … 😄 Pronouns: … ⚡ Fun fact: …
+👋 Hi, I’m @uripraharjo
+👀 I’m interested in BackEnd Web Developer
+🌱 I’m currently learning PHP, MySql, Etc
+📫 How to reach me raharjo.urip12@gmail.com
